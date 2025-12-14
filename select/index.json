@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Morgan Wallen - Wasted On You (Official Lyric Video)",
+  "base_artist": "Morgan Wallen",
+  "createdAt": "2025-12-14T13:42:15.019647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flower Shops (feat. Morgan Wallen) [Acoustic]",
+      "artist": "ERNEST",
+      "has_synced": true,
+      "path": "select/01_Flower_Shops_(feat._Morgan_Wallen)_[Acoustic]_ERNEST.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heartless (feat. Morgan Wallen)",
+      "artist": "Diplo feat. Morgan Wallen",
+      "has_synced": true,
+      "path": "select/02_Heartless_(feat._Morgan_Wallen)_Diplo_feat._Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heartless (feat. Morgan Wallen) (Wallen Album Mix)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/03_Heartless_(feat._Morgan_Wallen)_(Wallen_Album_Mix)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Broadway Girls (feat. Morgan Wallen)",
+      "artist": "Lil Durk feat. Morgan Wallen",
+      "has_synced": true,
+      "path": "select/04_Broadway_Girls_(feat._Morgan_Wallen)_Lil_Durk_feat._Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "He Went to Jared (feat. Morgan Wallen)",
+      "artist": "HIXTAPE feat. HARDY & Morgan Wallen",
+      "has_synced": true,
+      "path": "select/05_He_Went_to_Jared_(feat._Morgan_Wallen)_HIXTAPE_feat._HARDY_&_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "He Went To Jared (HARDY feat. Morgan Wallen)",
+      "artist": "HIXTAPE",
+      "has_synced": true,
+      "path": "select/06_He_Went_To_Jared_(HARDY_feat._Morgan_Wallen)_HIXTAPE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Turn You Down (feat. Morgan Wallen & Zakk Wylde)",
+      "artist": "HIXTAPE feat. HARDY, Morgan Wallen & Zakk Wylde",
+      "has_synced": true,
+      "path": "select/07_Turn_You_Down_(feat._Morgan_Wallen_&_Zakk_Wylde)_HIXTAPE_feat._HARDY,_Morgan_Wallen_&_Zakk_Wylde.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Turn You Down (HARDY feat. Morgan Wallen, Zakk Wylde)",
+      "artist": "HIXTAPE",
+      "has_synced": true,
+      "path": "select/08_Turn_You_Down_(HARDY_feat._Morgan_Wallen,_Zakk_Wylde)_HIXTAPE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heartless (feat. Morgan Wallen)",
+      "artist": "Diplo feat. Julia Michaels & Morgan Wallen",
+      "has_synced": true,
+      "path": "select/09_Heartless_(feat._Morgan_Wallen)_Diplo_feat._Julia_Michaels_&_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heartless (feat. Morgan Wallen & Julia Michaels)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/10_Heartless_(feat._Morgan_Wallen_&_Julia_Michaels)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heartless (feat. Morgan Wallen)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/11_Heartless_(feat._Morgan_Wallen)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heartless (feat. Morgan Wallen)",
+      "artist": "Diplo, Morgan Wallen",
+      "has_synced": true,
+      "path": "select/12_Heartless_(feat._Morgan_Wallen)_Diplo,_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Heartless (feat. Morgan Wallen)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/13_Heartless_(feat._Morgan_Wallen)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "red (feat. Morgan Wallen)",
+      "artist": "Hardy",
+      "has_synced": false,
+      "path": "select/14_red_(feat._Morgan_Wallen)_Hardy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stand By Me (feat. Morgan Wallen)",
+      "artist": "Lil Durk feat. Morgan Wallen",
+      "has_synced": true,
+      "path": "select/15_Stand_By_Me_(feat._Morgan_Wallen)_Lil_Durk_feat._Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stand By Me (feat. Morgan Wallen)",
+      "artist": "Lil Durk, Morgan Wallen",
+      "has_synced": true,
+      "path": "select/16_Stand_By_Me_(feat._Morgan_Wallen)_Lil_Durk,_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Heartless (with Julia Michaels & Morgan Wallen)",
+      "artist": "Diplo feat. Julia Michaels & Morgan Wallen",
+      "has_synced": true,
+      "path": "select/17_Heartless_(with_Julia_Michaels_&_Morgan_Wallen)_Diplo_feat._Julia_Michaels_&_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Heartless (feat. Morgan Wallen)",
+      "artist": "Diplo & Julia Michaels",
+      "has_synced": true,
+      "path": "select/18_Heartless_(feat._Morgan_Wallen)_Diplo_&_Julia_Michaels.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Broadway Girls (feat. Morgan Wallen)",
+      "artist": "Lil Durk, Morgan Wallen",
+      "has_synced": true,
+      "path": "select/19_Broadway_Girls_(feat._Morgan_Wallen)_Lil_Durk,_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Morgan Wallen - Wasted On You (Official Lyric Video)",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/20_Morgan_Wallen_-_Wasted_On_You_(Official_Lyric_Video)_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Morgan Wallen – Wasted On You (Audio Only)",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/21_Morgan_Wallen_–_Wasted_On_You_(Audio_Only)_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Morgan Wallen - Wasted On You (The Dangerous Sessions)",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/22_Morgan_Wallen_-_Wasted_On_You_(The_Dangerous_Sessions)_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Morgan Wallen – Wasted On You (Audio Only)",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/23_Morgan_Wallen_–_Wasted_On_You_(Audio_Only)_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Morgan Wallen - Wasted On You (The Dangerous Sessions)",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/24_Morgan_Wallen_-_Wasted_On_You_(The_Dangerous_Sessions)_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wasted on You",
+      "artist": "Morgan Wallen",
+      "has_synced": false,
+      "path": "select/pl_01_Wasted_on_You_Morgan_Wallen.txt"
+    }
+  ]
+}
