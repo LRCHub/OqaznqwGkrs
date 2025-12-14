@@ -1,0 +1,54 @@
+# Morgan Wallen – Morgan Wallen - Wasted On You (Official Lyric Video)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.32] I don't always wake up in the mornin'
+[00:18.12] Pour myself a strong one
+[00:20.45] Aw, but when I get lonely I do
+[00:23.87] Your memory gets to burnin'
+[00:25.37] Lean back on the bourbon
+[00:27.59] Sure as hell can't keep leanin' on you
+[00:46.59] 
+[00:31.18] Looks like I'm learnin' the hard way again
+[00:34.82] It's all my fault, yeah, I dropped the ball
+[00:38.32] You're gone, and I'm gone three sheets to the wind
+[00:41.98] Thinkin' 'bout all
+[00:50.98] 
+[00:43.78] I've wasted on you
+[00:45.80] All of this time and all of this money
+[00:49.01] All of these sorrys I don't owe you, honey
+[00:53.07] All of these miles on this Chevy and prayers in a pew
+[00:57.03] All them days I spent wasted on you
+[01:02.16] Wasted on you
+[01:08.66] 
+[01:06.82] Yeah, I swore this one'd be different
+[01:09.85] My heart wouldn't listen
+[01:12.35] To my head and these boots on my feet
+[01:15.59] Looks like I'm learnin' the hard way again
+[01:19.47] That's why I've been
+[01:29.47] 
+[01:20.97] Wasted on you
+[01:23.28] All of this time and all of this money
+[01:26.26] All of these sorrys I don't owe you, honey
+[01:29.73] All of these miles on this Chevy and prayers in a pew
+[01:34.52] All them days I spent wasted on you
+[01:38.86] Wasted on you
+[01:45.36] 
+[01:50.65] Like this pile of your stuff that's packed up in the back
+[01:54.29] Right down to the flame of this match
+[01:57.86] Wasted on you
+[02:01.39] Wasted on you
+[02:04.82] Wasted on you
+[02:08.59] Wasted on you
+[02:15.09] 
+[02:12.54] Wasted on you
+[02:14.39] All of this time and all of this money
+[02:17.55] All of these sorrys I don't owe you, honey
+[02:21.54] All of these miles on this Chevy and prayers in a pew
+[02:25.37] All them days I spent wasted on you
+[02:30.57] Wasted on you
+[02:37.07] 
+[02:34.15] Wasted on you
+[02:38.06] Wasted on you
+```
